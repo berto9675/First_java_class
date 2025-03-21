@@ -1,18 +1,13 @@
 package dev.berto.first_excersie;
 
-import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-/**
- * Unit test for simple App.
- */
-class AppTest {
-    /**
-     * Rigorous Test.
-     */
+import org.junit.jupiter.api.Test;
+
+public class AppTest {
     @Test
-    void testApp() {
+    void testApp(){
         assertEquals(1, 1);
     }
+
 }
