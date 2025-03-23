@@ -1,5 +1,7 @@
 package dev.berto.first_excersie;
 
+import dev.berto.first_excersie.PersonClass.Person;
+
 public final class App {
     private App() {
     }

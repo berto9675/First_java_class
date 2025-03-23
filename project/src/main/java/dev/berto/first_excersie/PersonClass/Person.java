@@ -1,4 +1,4 @@
-package dev.berto.first_excersie;
+package dev.berto.first_excersie.PersonClass;
 
 public class Person {
     public String name;
